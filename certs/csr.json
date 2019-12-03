@@ -1,0 +1,15 @@
+{
+    "CN": "Gitlab Runner Admission Controller: TLS",
+    "hosts": [
+        "gitlab-runner-jobs-webhook.gitlab-ci.svc"
+    ],
+    "key": {
+        "algo": "rsa",
+        "size": 2048
+    },
+    "names": [
+        {
+            "O": "Gitlab Runner Admission Controller"
+        }
+    ]
+}

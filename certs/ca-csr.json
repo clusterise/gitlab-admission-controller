@@ -1,0 +1,15 @@
+{
+    "CN": "Gitlab Runner Admission Controller: CA",
+    "key": {
+        "algo": "rsa",
+        "size": 2048
+    },
+    "ca": {
+        "expiry": "8760h"
+    },
+    "names": [
+        {
+            "O": "Gitlab Runner Admission Controller"
+        }
+    ]
+}
