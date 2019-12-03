@@ -3,6 +3,8 @@ Gitlab Runner Mutating Admission Controller for Kubernetes
 
 Mission: patch CI Pods created by Gitlab Runner Kubernetes Executor with custom configuration. 
 
+https://clusterise.com/articles/gitlab-runner-admission/
+
 ## Installation
 
 Set labels in Gitlab runner helm chart config:
